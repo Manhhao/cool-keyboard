@@ -1,2 +1,2 @@
 # cool-keyboard
-A gasket- (foamstrip-) mount style keyboard, designed to be lasercut
+A gasket- (foamstrip-) mount style 65%-ish keyboard, designed to be lasercut
